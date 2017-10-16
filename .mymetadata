@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="OpenSourcePro"
+  id="myeclipse.1488633712273"
+  context-root="/myfirstproject"
+  j2ee-spec="5.0"
+  archive="OpenSourcePro.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
