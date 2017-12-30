@@ -22,7 +22,7 @@ public class myJavaPro {
 		List<Fruit> b =	findMyFruit(aa);
 		System.out.println(b.size());
 		String[] a = new String[]{"1","2"};
-		String[] ab = {"2d","21"};
+		String[] ab = {"2d","21","fdfd"};
 		System.out.println(ab);
 	}
 }
