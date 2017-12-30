@@ -23,6 +23,5 @@ public class myJavaPro {
 		System.out.println(b.size());
 		String[] a = new String[]{"1","2"};
 		String[] ab = {"2d","21","fgkdlfkdl"};
-		System.out.println(ab);
 	}
 }
